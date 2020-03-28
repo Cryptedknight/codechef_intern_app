@@ -1,0 +1,12 @@
+.pr{
+    color: green;
+}
+
+.prob
+{
+    border: 1px solid grey;
+    border-left: 0;
+    border-right: 0;
+    padding: 1%;
+    margin: 1% 0%;
+}

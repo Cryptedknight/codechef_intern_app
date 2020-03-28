@@ -1,0 +1,22 @@
+.timeStats {
+    width: 130px;
+    height: 50px;
+    background-color: #4db054;
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+  }
+  .timeStats #timeLeft {
+    margin-left: 5px;
+    color: #ffffff;
+    font-size: 0.8em;
+    font-weight: 700;
+  }
+  .timeStats #time {
+    color: #ffffff;
+    font-size: 2rem;
+    align-self: center;
+  }
+  

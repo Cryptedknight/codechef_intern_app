@@ -1,0 +1,51 @@
+.problem_header_flex
+{
+    display: flex;
+}
+
+.problem_header
+{
+    width: 80%;
+    text-align: left;
+}
+
+.logout{
+    width: 20%;
+    text-align: right;
+}
+
+.problem_name
+{
+    font-size: xx-large;
+}
+
+.problem_code
+{
+    font-size: medium;
+    margin-top: 1%;
+}
+
+.timer{
+    margin-top: 1%;
+}
+
+.tabs{
+    font-size: large;
+}
+
+.problem_content_flex
+{
+    margin-top: 1%;
+    display: flex;
+}
+
+.problem_content
+{
+    width: 75%;
+}
+
+.submissions
+{
+    padding-left: 5%;
+    width: 25%;
+}

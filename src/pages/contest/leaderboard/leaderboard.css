@@ -1,0 +1,9 @@
+.ldr{
+    color: chocolate;
+}
+
+td,th{
+    padding: 8px;
+    margin: 1px;
+    border: 1px solid #dddddd
+}
